@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-</html>
+
 
   <head>
   <title>ksmspedia</title>
@@ -9,4 +8,4 @@
   <body>
     <a href="https://aaronlee7426.github.io/szn/">昆中百科：盛子楠</a><br>
   </body>
-  </html>
+ 
